@@ -908,6 +908,7 @@ ul.social-buttons {
 	list-style:none;
 	margin:0;
 	padding:0;
+	text-align: center;
 }
 ul.social-buttons li {
 	display:inline-block;
